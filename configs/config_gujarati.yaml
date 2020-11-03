@@ -1,0 +1,10 @@
+input_dim: 13   ## Audio feature dimension for 16KHz 
+vocab_len: 58   ## VOcabulary size
+embedding_dim: 128
+hidden_dim_AE: 256     ## Number of Hidden units in AUdio encoder layers
+hidden_dim_PE: 256        ## Number of Hidden units in Phoneme encoder layers
+n_layers: 1        ## number of layers
+use_gpu: 1
+batch_size: 64
+num_epochs: 25
+n_warmup_steps: 50
