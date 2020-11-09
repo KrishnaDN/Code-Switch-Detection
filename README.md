@@ -5,7 +5,7 @@ If you find this code useful for your research or development, please cite the f
 paper: https://arxiv.org/pdf/2011.02132.pdf
 
 ```
-@article{recbole,
+@article{Krishna D N,
     title={Multi-Modal Transformers for Utterance-Level Code-Switching Detection},
     author={Krishna D N},
     year={2020},
